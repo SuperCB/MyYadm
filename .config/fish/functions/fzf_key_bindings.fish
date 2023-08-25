@@ -1,0 +1,1 @@
+/home/onepiececb/.fzf/shell/key-bindings.fish
